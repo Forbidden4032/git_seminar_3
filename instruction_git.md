@@ -25,3 +25,5 @@
     git branch -d <branch name>
 ### Слияние веток
     git merge
+### Переключение между ветками
+    git checkout
