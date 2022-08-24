@@ -23,3 +23,5 @@
     git branch
 ### Удаление веток
     git branch -d <branch name>
+### Слияние веток
+    git merge
