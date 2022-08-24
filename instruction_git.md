@@ -21,3 +21,5 @@
 
 ### Просмотр существующих веток
     git branch
+### Удаление веток
+    git branch -d <branch name>
